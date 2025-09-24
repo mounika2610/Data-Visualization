@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,State,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Segment
+ORD-1001,2025-06-13,East,Illinois,Technology,Phones,Brother Phones,461.96,2,0.0,44.0,Consumer
+ORD-1002,2022-11-01,East,Florida,Furniture,Chairs,Site Chairs,1020.6,1,0.1,161.26,Consumer
+ORD-1003,2023-11-25,West,Georgia,Technology,Copiers,Election Copiers,570.82,1,0.1,85.09,Home Office
+ORD-1004,2023-09-05,West,Florida,Office Supplies,Storage,Chair Storage,222.38,7,0.0,-4.56,Corporate
+ORD-1005,2023-03-02,Central,California,Office Supplies,Envelopes,Require Envelopes,929.66,2,0.3,-149.3,Home Office
+ORD-1006,2025-01-18,Central,North Carolina,Office Supplies,Envelopes,Begin Envelopes,1415.05,1,0.1,263.96,Consumer
+ORD-1007,2025-03-29,East,Ohio,Furniture,Tables,Knowledge Tables,917.75,6,0.1,-13.68,Corporate
+ORD-1008,2022-11-12,East,North Carolina,Furniture,Bookcases,All Bookcases,358.85,4,0.1,11.17,Home Office
+ORD-1009,2023-02-16,West,Pennsylvania,Office Supplies,Envelopes,Discover Envelopes,473.52,1,0.2,0.28,Consumer
+ORD-1010,2023-09-20,Central,Florida,Furniture,Tables,Mouth Tables,1008.48,8,0.1,-68.13,Home Office
+ORD-1011,2025-04-16,South,North Carolina,Furniture,Bookcases,Agreement Bookcases,736.75,3,0.3,-113.86,Corporate
+ORD-1012,2025-02-11,West,New York,Furniture,Chairs,Decide Chairs,855.88,2,0.3,-7.87,Home Office
+ORD-1013,2025-06-29,Central,Michigan,Office Supplies,Envelopes,Science Envelopes,1366.96,2,0.2,251.93,Consumer
+ORD-1014,2025-01-17,Central,Ohio,Office Supplies,Binders,Kind Binders,918.37,5,0.1,49.45,Consumer
+ORD-1015,2023-09-01,West,New York,Furniture,Bookcases,List Bookcases,1529.77,9,0.0,152.17,Corporate
+ORD-1016,2025-03-27,East,Pennsylvania,Office Supplies,Binders,Fall Binders,494.12,4,0.0,-77.66,Corporate
+ORD-1017,2022-10-04,West,New York,Office Supplies,Binders,Song Binders,961.06,9,0.1,-64.84,Home Office
+ORD-1018,2023-05-30,West,Michigan,Technology,Copiers,Save Copiers,1385.94,5,0.3,412.42,Home Office
+ORD-1019,2024-07-11,South,Michigan,Technology,Machines,Grow Machines,259.59,4,0.0,-8.04,Corporate
+ORD-1020,2023-11-29,West,California,Technology,Accessories,Clearly Accessories,1421.53,1,0.1,-236.4,Consumer
+ORD-1021,2023-08-24,East,Michigan,Furniture,Bookcases,Source Bookcases,571.38,8,0.1,39.78,Consumer
+ORD-1022,2024-02-28,West,Georgia,Technology,Copiers,Blue Copiers,397.01,2,0.3,-9.07,Corporate
+ORD-1023,2023-02-15,East,Texas,Office Supplies,Art,Husband Art,817.19,6,0.0,-61.84,Consumer
+ORD-1024,2023-02-21,West,Ohio,Furniture,Furnishings,Her Furnishings,571.52,4,0.0,12.33,Consumer
+ORD-1025,2024-03-11,East,Michigan,Technology,Phones,Pm Phones,1938.61,4,0.1,6.22,Consumer
+ORD-1026,2023-11-08,South,California,Office Supplies,Paper,Surface Paper,770.37,7,0.2,202.81,Consumer
+ORD-1027,2022-11-30,South,Michigan,Office Supplies,Storage,Show Storage,1442.45,3,0.1,-74.5,Home Office
+ORD-1028,2024-09-06,Central,California,Furniture,Chairs,Not Chairs,1176.67,9,0.1,-201.87,Consumer
+ORD-1029,2023-04-05,West,Texas,Technology,Phones,Win Phones,154.56,4,0.3,-21.65,Home Office
+ORD-1030,2024-05-04,East,North Carolina,Technology,Accessories,Bar Accessories,850.07,10,0.2,227.27,Consumer
+ORD-1031,2025-01-28,West,Illinois,Furniture,Bookcases,Finally Bookcases,279.14,5,0.3,-11.7,Corporate
+ORD-1032,2025-05-27,South,North Carolina,Furniture,Chairs,Present Chairs,1992.27,2,0.1,105.48,Home Office
+ORD-1033,2024-04-07,East,Florida,Furniture,Bookcases,Participant Bookcases,584.28,8,0.2,61.84,Corporate
+ORD-1034,2023-07-19,Central,Texas,Technology,Phones,Sea Phones,543.64,2,0.1,-34.7,Consumer
+ORD-1035,2023-01-10,Central,Florida,Technology,Accessories,Answer Accessories,1275.79,5,0.3,-94.97,Home Office
+ORD-1036,2025-07-17,South,Illinois,Furniture,Chairs,Drive Chairs,27.02,3,0.2,-3.22,Consumer
+ORD-1037,2023-12-17,South,Michigan,Office Supplies,Envelopes,Base Envelopes,241.51,3,0.0,52.48,Consumer
+ORD-1038,2023-09-20,South,New York,Technology,Accessories,Trial Accessories,630.35,1,0.2,-59.86,Consumer
+ORD-1039,2023-02-27,Central,Michigan,Furniture,Chairs,Husband Chairs,1948.2,3,0.1,452.57,Corporate
+ORD-1040,2023-11-29,East,New York,Furniture,Furnishings,Long Furnishings,1850.48,7,0.1,-123.24,Home Office
+ORD-1041,2025-06-07,South,California,Technology,Phones,They Phones,460.42,8,0.2,-21.83,Corporate
+ORD-1042,2024-04-12,East,Florida,Furniture,Tables,Commercial Tables,669.96,2,0.2,-16.37,Corporate
+ORD-1043,2024-04-21,Central,California,Technology,Copiers,Hear Copiers,1756.54,5,0.1,158.61,Consumer
+ORD-1044,2023-08-15,East,North Carolina,Office Supplies,Binders,Religious Binders,704.46,6,0.3,72.63,Corporate
+ORD-1045,2023-11-12,South,North Carolina,Technology,Phones,Science Phones,524.35,7,0.0,31.44,Consumer
+ORD-1046,2025-08-20,Central,Ohio,Technology,Accessories,Raise Accessories,1898.77,6,0.2,250.06,Consumer
+ORD-1047,2023-01-12,Central,Ohio,Furniture,Bookcases,Politics Bookcases,816.75,5,0.1,-85.01,Corporate
+ORD-1048,2025-06-06,West,North Carolina,Technology,Copiers,Congress Copiers,615.88,9,0.0,-29.6,Home Office
+ORD-1049,2024-12-31,Central,Georgia,Furniture,Furnishings,Shoulder Furnishings,895.48,4,0.3,176.29,Corporate
+ORD-1050,2023-10-09,East,Illinois,Technology,Accessories,Common Accessories,1334.43,10,0.2,-204.58,Home Office
+ORD-1051,2024-09-11,West,Florida,Furniture,Bookcases,Hundred Bookcases,68.36,4,0.3,7.22,Consumer
+ORD-1052,2023-11-17,South,North Carolina,Furniture,Furnishings,Wish Furnishings,1442.32,7,0.3,-0.25,Consumer
+ORD-1053,2025-06-14,East,Ohio,Furniture,Chairs,Rise Chairs,368.26,9,0.3,-64.41,Consumer
+ORD-1054,2025-02-05,South,New York,Furniture,Chairs,Discuss Chairs,1341.8,9,0.2,369.02,Corporate
+ORD-1055,2025-08-22,South,Michigan,Office Supplies,Envelopes,Garden Envelopes,1796.47,8,0.3,-126.48,Corporate
+ORD-1056,2022-12-19,South,Florida,Furniture,Bookcases,Drop Bookcases,890.95,5,0.1,-57.15,Corporate
+ORD-1057,2022-11-12,East,New York,Office Supplies,Envelopes,Support Envelopes,477.9,3,0.1,-80.23,Consumer
+ORD-1058,2024-01-27,South,Ohio,Office Supplies,Storage,Institution Storage,429.53,7,0.3,108.42,Consumer
+ORD-1059,2023-11-13,South,Georgia,Technology,Phones,Attorney Phones,1886.63,5,0.3,427.74,Consumer
+ORD-1060,2023-08-17,West,Georgia,Office Supplies,Envelopes,White Envelopes,560.41,8,0.0,-3.12,Consumer
+ORD-1061,2025-02-21,West,Georgia,Technology,Copiers,Under Copiers,1961.83,9,0.0,497.25,Consumer
+ORD-1062,2024-01-25,East,Ohio,Technology,Phones,Difference Phones,1736.37,3,0.0,-121.41,Consumer
+ORD-1063,2025-07-08,South,Pennsylvania,Office Supplies,Paper,Money Paper,1527.23,7,0.2,268.8,Corporate
+ORD-1064,2024-05-30,East,Georgia,Office Supplies,Storage,Usually Storage,1503.07,1,0.2,-132.1,Consumer
+ORD-1065,2025-06-18,East,Florida,Furniture,Chairs,Low Chairs,1681.67,10,0.1,-135.76,Consumer
+ORD-1066,2023-05-03,West,Georgia,Office Supplies,Binders,Evidence Binders,527.36,6,0.1,54.29,Home Office
+ORD-1067,2023-04-28,West,Illinois,Technology,Phones,Employee Phones,1165.8,5,0.3,-1.95,Consumer
+ORD-1068,2025-02-12,East,North Carolina,Technology,Accessories,Nothing Accessories,1664.53,4,0.0,247.34,Home Office
+ORD-1069,2023-11-06,East,North Carolina,Office Supplies,Envelopes,Skin Envelopes,707.46,7,0.2,-117.1,Consumer
+ORD-1070,2025-03-20,East,Ohio,Technology,Machines,Later Machines,228.97,6,0.3,35.18,Corporate
+ORD-1071,2025-03-18,Central,North Carolina,Office Supplies,Paper,Inside Paper,1553.79,8,0.3,330.75,Home Office
+ORD-1072,2024-04-08,Central,Florida,Technology,Machines,Discuss Machines,572.28,8,0.1,100.29,Consumer
+ORD-1073,2023-04-26,Central,California,Technology,Copiers,Mr Copiers,1704.89,3,0.3,-160.16,Corporate
+ORD-1074,2024-10-29,Central,North Carolina,Office Supplies,Storage,Benefit Storage,1762.61,9,0.0,102.78,Home Office
+ORD-1075,2022-12-06,West,Ohio,Furniture,Chairs,Traditional Chairs,1119.25,4,0.3,137.61,Corporate
+ORD-1076,2023-03-13,East,Texas,Office Supplies,Art,Claim Art,458.76,4,0.2,60.55,Corporate
+ORD-1077,2025-05-25,Central,Ohio,Office Supplies,Art,Collection Art,1109.77,6,0.3,-71.63,Home Office
+ORD-1078,2025-08-16,East,Florida,Office Supplies,Paper,Knowledge Paper,256.72,9,0.1,-26.76,Corporate
+ORD-1079,2025-04-07,Central,North Carolina,Technology,Copiers,Attack Copiers,1201.65,2,0.1,-62.34,Home Office
+ORD-1080,2024-05-13,Central,California,Office Supplies,Paper,I Paper,1077.59,5,0.0,309.43,Home Office
+ORD-1081,2025-04-06,West,Georgia,Technology,Machines,Management Machines,1747.99,10,0.2,60.65,Consumer
+ORD-1082,2024-12-23,West,California,Office Supplies,Storage,Enter Storage,1883.31,8,0.0,397.49,Corporate
+ORD-1083,2025-01-30,East,North Carolina,Office Supplies,Art,Traditional Art,1379.17,3,0.1,283.52,Home Office
+ORD-1084,2022-10-11,West,Texas,Office Supplies,Binders,Response Binders,1533.6,10,0.1,288.08,Home Office
+ORD-1085,2023-03-20,South,Illinois,Office Supplies,Art,Rest Art,1980.26,5,0.0,207.56,Home Office
+ORD-1086,2025-01-05,West,Florida,Technology,Phones,Social Phones,1327.65,3,0.1,-150.15,Corporate
+ORD-1087,2023-11-12,East,Ohio,Furniture,Tables,Specific Tables,1384.95,8,0.2,-254.39,Corporate
+ORD-1088,2025-06-15,South,Texas,Office Supplies,Storage,Grow Storage,482.18,5,0.1,6.06,Home Office
+ORD-1089,2023-03-16,West,Illinois,Technology,Accessories,Finally Accessories,161.39,3,0.2,15.74,Consumer
+ORD-1090,2024-07-30,South,Texas,Technology,Machines,Coach Machines,1383.58,7,0.2,69.51,Corporate
+ORD-1091,2024-08-28,East,North Carolina,Office Supplies,Art,About Art,1781.06,6,0.2,-333.18,Consumer
+ORD-1092,2023-11-07,Central,North Carolina,Furniture,Chairs,Month Chairs,1530.96,3,0.3,91.06,Consumer
+ORD-1093,2023-06-28,West,North Carolina,Office Supplies,Storage,Movement Storage,1276.87,8,0.0,44.7,Corporate
+ORD-1094,2023-03-08,Central,Texas,Office Supplies,Storage,Truth Storage,673.01,8,0.2,88.36,Consumer
+ORD-1095,2025-05-22,East,Georgia,Office Supplies,Envelopes,Fire Envelopes,642.74,6,0.0,183.24,Consumer
+ORD-1096,2025-06-12,East,Michigan,Office Supplies,Envelopes,Movement Envelopes,838.23,4,0.2,93.31,Corporate
+ORD-1097,2025-04-27,East,Florida,Office Supplies,Art,Decide Art,1107.45,5,0.3,266.26,Corporate
+ORD-1098,2023-05-19,East,North Carolina,Office Supplies,Binders,Hour Binders,1425.37,5,0.0,108.51,Consumer
+ORD-1099,2023-06-01,East,Georgia,Furniture,Tables,Notice Tables,1302.47,3,0.3,346.88,Consumer
+ORD-1100,2024-12-25,Central,Ohio,Office Supplies,Envelopes,Why Envelopes,1960.88,4,0.3,148.31,Corporate
+ORD-1101,2022-09-24,West,Texas,Office Supplies,Paper,Place Paper,1549.9,7,0.2,414.02,Corporate
+ORD-1102,2024-02-09,East,Illinois,Technology,Machines,Middle Machines,611.14,10,0.3,142.17,Home Office
+ORD-1103,2022-10-24,South,Pennsylvania,Office Supplies,Envelopes,Brother Envelopes,1112.8,9,0.3,30.79,Corporate
+ORD-1104,2024-04-09,West,North Carolina,Office Supplies,Paper,Unit Paper,482.45,7,0.0,-19.74,Corporate
+ORD-1105,2024-01-14,South,New York,Office Supplies,Art,Education Art,1930.35,3,0.2,453.34,Corporate
+ORD-1106,2022-12-22,South,California,Office Supplies,Binders,Effect Binders,305.43,3,0.0,10.61,Home Office
+ORD-1107,2025-02-21,South,Texas,Office Supplies,Storage,Your Storage,1707.64,9,0.3,473.14,Corporate
+ORD-1108,2023-01-24,East,North Carolina,Technology,Copiers,Bed Copiers,484.85,5,0.1,84.06,Consumer
+ORD-1109,2024-10-17,East,Georgia,Office Supplies,Binders,Team Binders,1394.12,1,0.0,-52.72,Consumer
+ORD-1110,2023-01-09,Central,Pennsylvania,Furniture,Bookcases,Soon Bookcases,308.23,9,0.3,25.57,Corporate
+ORD-1111,2024-12-29,West,Texas,Furniture,Tables,Space Tables,1744.26,10,0.1,85.18,Home Office
+ORD-1112,2023-04-07,West,Georgia,Technology,Accessories,Career Accessories,522.88,5,0.0,130.43,Home Office
+ORD-1113,2025-07-14,West,Texas,Office Supplies,Storage,May Storage,1891.57,10,0.2,225.98,Corporate
+ORD-1114,2025-01-25,South,Illinois,Office Supplies,Storage,Company Storage,1998.76,8,0.0,-162.69,Consumer
+ORD-1115,2023-11-09,Central,Illinois,Technology,Machines,News Machines,1956.33,7,0.2,-383.34,Consumer
+ORD-1116,2025-04-23,South,Illinois,Technology,Phones,Land Phones,1221.99,6,0.1,144.57,Consumer
+ORD-1117,2023-08-19,West,Texas,Technology,Machines,Woman Machines,1299.75,5,0.3,-238.27,Home Office
+ORD-1118,2025-01-08,East,Illinois,Office Supplies,Paper,Someone Paper,1500.01,3,0.1,-200.88,Corporate
+ORD-1119,2025-08-30,Central,New York,Technology,Machines,Deep Machines,1829.82,8,0.2,317.07,Corporate
+ORD-1120,2024-01-21,South,Texas,Office Supplies,Binders,Inside Binders,1513.22,4,0.3,429.2,Consumer
+ORD-1121,2025-08-02,East,Ohio,Technology,Machines,Rate Machines,543.63,2,0.3,-8.54,Consumer
+ORD-1122,2024-04-26,South,Pennsylvania,Technology,Machines,Left Machines,1356.18,8,0.0,148.87,Consumer
+ORD-1123,2024-12-06,West,Texas,Technology,Machines,Live Machines,1651.23,5,0.3,-233.92,Home Office
+ORD-1124,2023-03-30,Central,Georgia,Furniture,Chairs,End Chairs,212.44,9,0.1,-1.21,Consumer
+ORD-1125,2023-09-08,South,North Carolina,Office Supplies,Envelopes,Attack Envelopes,1458.67,7,0.0,316.31,Home Office
+ORD-1126,2024-03-02,Central,California,Technology,Copiers,Against Copiers,753.65,8,0.3,207.46,Home Office
+ORD-1127,2025-03-25,Central,Michigan,Office Supplies,Binders,Once Binders,730.17,7,0.2,-76.74,Home Office
+ORD-1128,2023-09-16,East,Florida,Furniture,Furnishings,Per Furnishings,1286.2,1,0.0,248.75,Home Office
+ORD-1129,2023-09-01,West,Texas,Furniture,Tables,Account Tables,430.17,4,0.1,-15.37,Home Office
+ORD-1130,2023-01-12,Central,New York,Furniture,Chairs,Second Chairs,1089.63,3,0.0,142.23,Consumer
+ORD-1131,2025-05-31,East,Pennsylvania,Furniture,Tables,Artist Tables,1185.93,1,0.1,-79.83,Consumer
+ORD-1132,2023-09-14,East,Texas,Furniture,Furnishings,Author Furnishings,907.58,6,0.0,23.6,Corporate
+ORD-1133,2022-11-11,Central,Georgia,Furniture,Chairs,Trade Chairs,1928.77,1,0.3,431.37,Home Office
+ORD-1134,2024-02-19,South,Georgia,Office Supplies,Binders,Avoid Binders,1800.55,6,0.1,-300.98,Consumer
+ORD-1135,2024-11-30,Central,Ohio,Office Supplies,Envelopes,Economy Envelopes,1070.5,8,0.3,-161.01,Home Office
+ORD-1136,2023-11-30,West,Ohio,Technology,Phones,Relationship Phones,1778.42,7,0.2,380.07,Corporate
+ORD-1137,2024-10-17,East,Pennsylvania,Office Supplies,Art,Difficult Art,638.8,5,0.2,176.82,Corporate
+ORD-1138,2025-01-08,East,Texas,Technology,Copiers,Cause Copiers,204.6,2,0.2,42.12,Consumer
+ORD-1139,2025-02-27,Central,Texas,Technology,Phones,Part Phones,720.12,7,0.0,204.66,Corporate
+ORD-1140,2024-09-27,Central,Texas,Technology,Machines,Eight Machines,1024.68,3,0.3,-90.05,Home Office
+ORD-1141,2024-09-27,Central,Texas,Furniture,Bookcases,Surface Bookcases,1156.72,7,0.0,120.87,Corporate
+ORD-1142,2024-06-17,East,New York,Technology,Machines,Customer Machines,1411.34,5,0.2,-34.56,Corporate
+ORD-1143,2023-02-17,South,Texas,Furniture,Tables,Bill Tables,1487.12,1,0.0,257.35,Consumer
+ORD-1144,2025-07-13,South,Georgia,Furniture,Furnishings,Lawyer Furnishings,331.67,5,0.2,62.49,Corporate
+ORD-1145,2024-03-27,East,New York,Technology,Phones,Land Phones,1513.78,1,0.0,-96.8,Consumer
+ORD-1146,2024-06-23,South,North Carolina,Technology,Copiers,Manage Copiers,840.08,4,0.0,-23.03,Corporate
+ORD-1147,2022-12-17,South,Michigan,Furniture,Bookcases,Report Bookcases,630.67,4,0.3,184.3,Home Office
+ORD-1148,2025-07-05,West,Illinois,Furniture,Chairs,Race Chairs,1539.35,5,0.2,-55.32,Consumer
+ORD-1149,2023-02-23,South,New York,Furniture,Furnishings,Ask Furnishings,772.81,4,0.2,-126.71,Consumer
+ORD-1150,2024-06-10,South,California,Technology,Phones,Should Phones,1843.9,6,0.3,159.87,Corporate
+ORD-1151,2024-03-04,Central,Texas,Technology,Copiers,Such Copiers,61.3,6,0.1,12.3,Corporate
+ORD-1152,2023-03-12,Central,Texas,Technology,Copiers,Energy Copiers,1692.08,4,0.3,159.79,Corporate
+ORD-1153,2023-07-18,South,Illinois,Technology,Phones,Customer Phones,692.24,6,0.1,-112.01,Home Office
+ORD-1154,2025-01-04,West,Pennsylvania,Technology,Phones,List Phones,1460.21,3,0.1,-216.98,Corporate
+ORD-1155,2023-04-29,West,North Carolina,Office Supplies,Paper,Knowledge Paper,1525.23,2,0.1,420.42,Consumer
+ORD-1156,2023-07-06,South,North Carolina,Technology,Copiers,Family Copiers,908.83,10,0.2,210.96,Home Office
+ORD-1157,2024-09-11,West,Georgia,Technology,Machines,Enjoy Machines,948.46,5,0.2,90.78,Consumer
+ORD-1158,2023-01-19,East,Illinois,Office Supplies,Envelopes,Level Envelopes,914.79,1,0.2,197.46,Corporate
+ORD-1159,2025-01-25,South,Georgia,Furniture,Chairs,Billion Chairs,1117.55,1,0.3,284.44,Home Office
+ORD-1160,2022-12-11,Central,North Carolina,Technology,Accessories,Reach Accessories,1012.71,1,0.3,-150.13,Corporate
+ORD-1161,2025-01-10,West,California,Office Supplies,Binders,Think Binders,1421.09,8,0.1,-25.65,Consumer
+ORD-1162,2022-10-16,South,Pennsylvania,Office Supplies,Art,Better Art,1203.81,6,0.0,-42.32,Home Office
+ORD-1163,2023-09-26,Central,Illinois,Technology,Copiers,Compare Copiers,1706.1,10,0.1,-56.85,Home Office
+ORD-1164,2024-06-16,Central,Illinois,Technology,Accessories,Mention Accessories,1402.99,7,0.1,136.82,Home Office
+ORD-1165,2024-10-10,South,Pennsylvania,Furniture,Bookcases,Different Bookcases,1346.83,9,0.0,165.68,Consumer
+ORD-1166,2024-06-07,Central,California,Office Supplies,Envelopes,Weight Envelopes,631.55,4,0.2,172.94,Corporate
+ORD-1167,2022-12-24,West,New York,Office Supplies,Paper,Community Paper,172.79,2,0.0,22.63,Consumer
+ORD-1168,2024-05-04,South,New York,Technology,Accessories,Able Accessories,378.08,10,0.1,60.72,Consumer
+ORD-1169,2024-05-22,Central,Florida,Furniture,Furnishings,Evidence Furnishings,1228.98,8,0.1,82.35,Corporate
+ORD-1170,2024-08-30,West,Pennsylvania,Office Supplies,Art,Feeling Art,1895.32,8,0.3,350.1,Home Office
+ORD-1171,2024-07-12,South,New York,Office Supplies,Envelopes,Same Envelopes,1606.49,3,0.2,-279.38,Consumer
+ORD-1172,2025-02-03,East,Michigan,Office Supplies,Storage,Recently Storage,584.42,3,0.2,14.41,Consumer
+ORD-1173,2024-10-19,South,Texas,Technology,Accessories,Clear Accessories,1637.07,6,0.0,12.19,Consumer
+ORD-1174,2023-07-15,Central,Florida,Office Supplies,Envelopes,Fine Envelopes,1989.16,6,0.1,-369.8,Corporate
+ORD-1175,2023-08-28,West,New York,Furniture,Bookcases,Article Bookcases,588.02,8,0.1,105.5,Consumer
+ORD-1176,2025-03-11,East,Texas,Office Supplies,Art,Simply Art,526.73,3,0.3,-76.06,Consumer
+ORD-1177,2025-01-13,Central,Texas,Office Supplies,Paper,Ask Paper,492.11,10,0.3,-82.97,Consumer
+ORD-1178,2024-01-24,East,Michigan,Office Supplies,Envelopes,Art Envelopes,499.04,3,0.2,7.3,Home Office
+ORD-1179,2022-12-10,West,North Carolina,Technology,Machines,Pattern Machines,390.88,2,0.2,-64.95,Corporate
+ORD-1180,2024-10-03,South,Georgia,Technology,Phones,Morning Phones,1278.63,6,0.2,222.04,Consumer
+ORD-1181,2024-12-27,Central,Florida,Office Supplies,Binders,Coach Binders,1321.07,2,0.2,-176.09,Home Office
+ORD-1182,2022-12-21,Central,New York,Office Supplies,Envelopes,Movie Envelopes,939.95,8,0.1,193.39,Home Office
+ORD-1183,2023-01-26,East,Illinois,Furniture,Furnishings,Today Furnishings,106.74,4,0.0,-4.5,Consumer
+ORD-1184,2023-07-09,South,Michigan,Office Supplies,Envelopes,Authority Envelopes,521.56,4,0.2,-11.22,Corporate
+ORD-1185,2025-04-05,Central,Texas,Furniture,Bookcases,Author Bookcases,885.16,7,0.3,218.92,Corporate
+ORD-1186,2025-08-07,West,Georgia,Office Supplies,Storage,Training Storage,1005.1,9,0.2,201.6,Home Office
+ORD-1187,2023-09-24,East,Ohio,Technology,Copiers,International Copiers,1990.29,3,0.2,-78.41,Home Office
+ORD-1188,2023-03-29,Central,Illinois,Furniture,Bookcases,Year Bookcases,1213.19,7,0.1,175.77,Corporate
+ORD-1189,2025-02-24,East,Pennsylvania,Office Supplies,Art,Employee Art,1996.34,5,0.0,-324.36,Home Office
+ORD-1190,2025-03-11,Central,Michigan,Technology,Copiers,Phone Copiers,1365.23,1,0.1,306.27,Home Office
+ORD-1191,2022-11-24,East,New York,Technology,Copiers,President Copiers,487.27,6,0.2,-4.18,Consumer
+ORD-1192,2023-01-29,West,Georgia,Technology,Phones,Kind Phones,756.59,2,0.1,48.97,Corporate
+ORD-1193,2025-07-11,Central,Florida,Office Supplies,Storage,Past Storage,71.31,3,0.3,4.2,Consumer
+ORD-1194,2025-02-18,Central,Illinois,Technology,Phones,Necessary Phones,903.62,10,0.2,132.82,Home Office
+ORD-1195,2024-01-28,East,New York,Office Supplies,Paper,Worry Paper,915.04,8,0.0,187.82,Consumer
+ORD-1196,2023-11-03,East,Michigan,Office Supplies,Storage,Democratic Storage,594.92,5,0.1,92.75,Home Office
+ORD-1197,2025-07-30,Central,Michigan,Technology,Accessories,Sense Accessories,260.3,4,0.1,-21.25,Consumer
+ORD-1198,2024-01-25,Central,Michigan,Office Supplies,Binders,Edge Binders,750.44,9,0.1,79.53,Home Office
+ORD-1199,2023-11-10,Central,Ohio,Furniture,Chairs,Individual Chairs,1443.36,9,0.3,266.42,Home Office
+ORD-1200,2023-04-15,West,Pennsylvania,Technology,Phones,Remain Phones,166.85,8,0.2,-22.66,Home Office
+ORD-1201,2025-06-22,West,Ohio,Technology,Accessories,First Accessories,1823.21,1,0.0,107.66,Home Office
+ORD-1202,2024-09-03,West,Pennsylvania,Office Supplies,Paper,Four Paper,466.43,9,0.2,104.0,Home Office
+ORD-1203,2023-01-14,Central,New York,Office Supplies,Paper,Act Paper,619.59,9,0.0,31.78,Home Office
+ORD-1204,2024-09-04,West,North Carolina,Furniture,Tables,Pretty Tables,1805.96,6,0.0,383.98,Home Office
+ORD-1205,2025-02-14,East,North Carolina,Furniture,Chairs,Black Chairs,1309.24,10,0.3,142.78,Corporate
+ORD-1206,2023-01-15,Central,Illinois,Furniture,Furnishings,Note Furnishings,504.86,7,0.2,13.52,Corporate
+ORD-1207,2023-08-21,West,Georgia,Technology,Phones,Move Phones,978.82,4,0.2,101.14,Corporate
+ORD-1208,2023-11-09,Central,Ohio,Office Supplies,Storage,Cause Storage,1526.12,9,0.0,-61.72,Consumer
+ORD-1209,2024-03-19,Central,Georgia,Office Supplies,Binders,Upon Binders,298.94,1,0.2,81.52,Consumer
+ORD-1210,2023-01-08,West,New York,Technology,Copiers,Until Copiers,1868.83,6,0.1,339.31,Corporate
+ORD-1211,2023-10-08,South,Georgia,Office Supplies,Envelopes,Hope Envelopes,1004.79,2,0.3,52.97,Corporate
+ORD-1212,2023-12-10,Central,California,Furniture,Tables,Coach Tables,577.09,10,0.3,-32.97,Consumer
+ORD-1213,2024-08-04,South,New York,Furniture,Chairs,These Chairs,1460.47,7,0.2,-259.06,Corporate
+ORD-1214,2025-01-14,Central,Michigan,Furniture,Tables,Score Tables,165.59,9,0.3,30.17,Corporate
+ORD-1215,2024-01-06,East,New York,Office Supplies,Envelopes,Population Envelopes,799.93,6,0.2,141.97,Consumer
+ORD-1216,2025-07-05,East,California,Furniture,Furnishings,Newspaper Furnishings,291.33,6,0.3,17.38,Consumer
+ORD-1217,2022-10-06,Central,North Carolina,Furniture,Tables,Region Tables,341.75,10,0.2,33.1,Corporate
+ORD-1218,2025-02-01,Central,Georgia,Technology,Copiers,Firm Copiers,749.35,2,0.3,68.83,Consumer
+ORD-1219,2025-07-20,South,Illinois,Technology,Phones,Body Phones,1570.15,10,0.1,252.32,Home Office
+ORD-1220,2023-04-20,West,Michigan,Technology,Copiers,Everything Copiers,1447.94,7,0.1,305.27,Home Office
+ORD-1221,2023-03-22,East,Florida,Furniture,Chairs,Voice Chairs,893.26,7,0.1,5.79,Consumer
+ORD-1222,2023-03-09,South,California,Furniture,Furnishings,Situation Furnishings,293.4,4,0.2,87.74,Home Office
+ORD-1223,2025-01-30,South,Pennsylvania,Office Supplies,Envelopes,Clearly Envelopes,930.13,9,0.2,68.03,Consumer
+ORD-1224,2023-11-21,South,Florida,Technology,Machines,Father Machines,572.43,5,0.1,154.98,Consumer
+ORD-1225,2025-04-20,West,Georgia,Office Supplies,Storage,Develop Storage,970.01,9,0.2,-54.42,Corporate
+ORD-1226,2024-03-09,South,Pennsylvania,Technology,Copiers,Democrat Copiers,595.1,5,0.0,-15.96,Consumer
+ORD-1227,2025-08-26,South,Florida,Office Supplies,Storage,Protect Storage,1659.34,5,0.2,-217.98,Consumer
+ORD-1228,2023-11-08,West,California,Technology,Accessories,Mouth Accessories,1812.26,4,0.1,-314.89,Home Office
+ORD-1229,2024-10-21,South,Texas,Office Supplies,Storage,Enter Storage,1546.12,1,0.1,5.34,Home Office
+ORD-1230,2022-12-11,West,Illinois,Office Supplies,Art,Best Art,585.12,1,0.0,73.81,Corporate
+ORD-1231,2025-06-05,West,Ohio,Furniture,Chairs,Land Chairs,1869.17,1,0.3,362.58,Consumer
+ORD-1232,2023-11-27,East,California,Furniture,Bookcases,Another Bookcases,1144.56,2,0.2,-66.06,Corporate
+ORD-1233,2022-09-29,West,Michigan,Technology,Copiers,Goal Copiers,560.22,2,0.2,-66.53,Corporate
+ORD-1234,2023-04-15,West,California,Office Supplies,Storage,Public Storage,687.48,5,0.1,-77.17,Home Office
+ORD-1235,2023-11-04,South,Michigan,Technology,Copiers,Color Copiers,191.74,2,0.1,55.77,Corporate
+ORD-1236,2024-08-10,West,California,Office Supplies,Storage,Ok Storage,779.48,8,0.2,215.93,Corporate
+ORD-1237,2024-07-19,East,Illinois,Office Supplies,Envelopes,Option Envelopes,731.91,4,0.0,98.0,Home Office
+ORD-1238,2022-10-09,West,Ohio,Office Supplies,Storage,Brother Storage,1014.99,5,0.0,121.14,Home Office
+ORD-1239,2023-01-18,West,Florida,Office Supplies,Storage,You Storage,966.8,8,0.2,7.66,Consumer
+ORD-1240,2025-09-01,West,Florida,Technology,Copiers,Well Copiers,1514.38,2,0.3,97.05,Home Office
+ORD-1241,2023-05-13,East,California,Office Supplies,Binders,Offer Binders,1807.72,4,0.1,-212.83,Home Office
+ORD-1242,2022-11-18,East,Florida,Technology,Copiers,They Copiers,1174.63,2,0.3,240.03,Home Office
+ORD-1243,2024-04-19,South,Georgia,Office Supplies,Paper,Pass Paper,134.32,8,0.2,21.71,Home Office
+ORD-1244,2025-01-29,East,Florida,Office Supplies,Storage,Choose Storage,164.6,7,0.2,24.72,Home Office
+ORD-1245,2024-07-22,East,Georgia,Technology,Phones,Care Phones,588.44,3,0.1,107.63,Consumer
+ORD-1246,2022-11-27,Central,Ohio,Technology,Copiers,Foot Copiers,1741.85,7,0.3,-278.48,Corporate
+ORD-1247,2024-04-12,Central,Texas,Technology,Accessories,Way Accessories,1985.84,7,0.1,325.54,Consumer
+ORD-1248,2022-11-24,East,Illinois,Furniture,Chairs,Way Chairs,1353.53,9,0.3,89.29,Corporate
+ORD-1249,2024-04-01,South,Pennsylvania,Furniture,Tables,Develop Tables,565.79,2,0.0,115.84,Consumer
+ORD-1250,2025-08-18,East,Florida,Office Supplies,Envelopes,Enjoy Envelopes,153.24,10,0.0,3.56,Consumer
+ORD-1251,2025-07-26,West,California,Technology,Phones,Board Phones,889.15,9,0.1,157.55,Corporate
+ORD-1252,2024-03-26,Central,Florida,Furniture,Tables,State Tables,1160.7,10,0.2,-94.65,Home Office
+ORD-1253,2025-02-09,South,Illinois,Furniture,Tables,Usually Tables,140.7,10,0.1,15.9,Corporate
+ORD-1254,2024-06-16,South,California,Office Supplies,Envelopes,Pressure Envelopes,1884.34,7,0.2,279.17,Corporate
+ORD-1255,2023-05-22,Central,Ohio,Office Supplies,Paper,Wish Paper,1513.74,8,0.1,340.09,Consumer
+ORD-1256,2023-09-26,South,California,Office Supplies,Paper,Treatment Paper,837.1,7,0.1,-4.85,Home Office
+ORD-1257,2023-06-03,Central,Texas,Office Supplies,Paper,Such Paper,1697.32,2,0.1,-295.73,Corporate
+ORD-1258,2023-06-26,East,Texas,Office Supplies,Envelopes,Upon Envelopes,1613.21,10,0.1,64.04,Consumer
+ORD-1259,2024-06-25,East,Florida,Office Supplies,Storage,Ago Storage,1924.91,2,0.3,495.13,Consumer
+ORD-1260,2023-06-29,South,Florida,Technology,Accessories,Since Accessories,656.8,5,0.3,21.76,Home Office
+ORD-1261,2024-02-22,Central,Illinois,Technology,Machines,Stay Machines,1035.38,8,0.3,-156.03,Corporate
+ORD-1262,2024-06-24,Central,Florida,Technology,Copiers,Suffer Copiers,639.59,1,0.1,109.13,Corporate
+ORD-1263,2025-07-30,South,Illinois,Furniture,Bookcases,Treat Bookcases,408.46,4,0.3,34.68,Consumer
+ORD-1264,2023-10-14,Central,Illinois,Furniture,Furnishings,Example Furnishings,1933.69,8,0.3,-224.08,Corporate
+ORD-1265,2023-05-29,West,Michigan,Office Supplies,Paper,Store Paper,384.41,9,0.0,23.82,Corporate
+ORD-1266,2025-09-17,East,Ohio,Furniture,Chairs,Box Chairs,1688.24,4,0.0,259.29,Consumer
+ORD-1267,2024-05-10,South,Pennsylvania,Furniture,Tables,Turn Tables,1243.31,10,0.3,161.19,Consumer
+ORD-1268,2022-11-23,South,California,Furniture,Chairs,Town Chairs,1068.25,5,0.2,-204.49,Consumer
+ORD-1269,2024-09-24,West,Texas,Technology,Copiers,Doctor Copiers,1058.28,4,0.1,116.29,Consumer
+ORD-1270,2023-07-31,Central,Ohio,Office Supplies,Storage,Technology Storage,758.64,7,0.3,62.59,Consumer
+ORD-1271,2024-09-08,Central,Texas,Technology,Accessories,Hard Accessories,1983.52,1,0.0,5.23,Home Office
+ORD-1272,2024-01-11,South,California,Office Supplies,Envelopes,Tend Envelopes,38.71,3,0.0,1.93,Home Office
+ORD-1273,2023-09-12,East,Michigan,Office Supplies,Storage,Dog Storage,474.94,10,0.3,-30.61,Consumer
+ORD-1274,2022-10-30,East,New York,Furniture,Bookcases,Receive Bookcases,51.0,4,0.1,8.98,Corporate
+ORD-1275,2023-07-21,East,Illinois,Technology,Copiers,Inside Copiers,1136.64,10,0.3,157.44,Consumer
+ORD-1276,2024-02-15,South,New York,Technology,Machines,Family Machines,1453.84,9,0.2,-251.73,Home Office
+ORD-1277,2023-01-09,East,Pennsylvania,Office Supplies,Paper,Spring Paper,1542.63,10,0.3,438.82,Home Office
+ORD-1278,2023-12-01,Central,Georgia,Office Supplies,Binders,Have Binders,471.71,9,0.3,7.51,Corporate
+ORD-1279,2025-06-16,East,North Carolina,Technology,Copiers,Mr Copiers,1600.15,2,0.0,-105.63,Corporate
+ORD-1280,2024-06-05,South,Pennsylvania,Office Supplies,Paper,Respond Paper,230.97,1,0.2,5.17,Corporate
+ORD-1281,2025-01-03,West,Texas,Office Supplies,Binders,Glass Binders,873.34,9,0.3,-129.56,Consumer
+ORD-1282,2022-11-05,East,North Carolina,Furniture,Bookcases,Business Bookcases,1573.19,7,0.0,-85.07,Home Office
+ORD-1283,2023-11-03,West,North Carolina,Office Supplies,Binders,Could Binders,355.77,7,0.1,-46.46,Home Office
+ORD-1284,2025-03-13,South,New York,Office Supplies,Storage,Evidence Storage,351.07,5,0.3,-17.6,Consumer
+ORD-1285,2022-11-22,Central,Florida,Furniture,Bookcases,Boy Bookcases,1257.57,10,0.1,36.38,Home Office
+ORD-1286,2025-04-07,East,Ohio,Furniture,Bookcases,Leader Bookcases,1686.39,7,0.2,33.92,Corporate
+ORD-1287,2024-03-14,West,Illinois,Office Supplies,Envelopes,Shoulder Envelopes,1214.36,4,0.3,-52.11,Corporate
+ORD-1288,2024-01-24,Central,Georgia,Office Supplies,Storage,Least Storage,1568.31,6,0.3,-93.86,Home Office
+ORD-1289,2025-04-22,East,North Carolina,Office Supplies,Storage,Much Storage,1192.61,9,0.1,167.99,Consumer
+ORD-1290,2023-03-22,South,Florida,Technology,Phones,Image Phones,1599.42,2,0.3,218.3,Corporate
+ORD-1291,2025-03-07,West,Illinois,Furniture,Bookcases,Customer Bookcases,325.2,7,0.3,-53.01,Home Office
+ORD-1292,2023-10-24,South,Michigan,Technology,Copiers,Another Copiers,1848.52,7,0.0,361.13,Home Office
+ORD-1293,2024-08-01,East,Texas,Office Supplies,Envelopes,Ability Envelopes,1322.05,6,0.1,163.27,Consumer
+ORD-1294,2024-12-09,Central,Ohio,Furniture,Furnishings,Wish Furnishings,40.88,5,0.1,2.26,Consumer
+ORD-1295,2025-01-07,South,Pennsylvania,Technology,Accessories,Right Accessories,936.87,10,0.1,-25.78,Corporate
+ORD-1296,2025-07-31,East,Illinois,Furniture,Furnishings,Debate Furnishings,1842.68,2,0.0,397.39,Corporate
+ORD-1297,2024-04-11,Central,Illinois,Technology,Accessories,Lawyer Accessories,921.56,4,0.3,-23.82,Corporate
+ORD-1298,2023-01-10,South,Pennsylvania,Furniture,Furnishings,Red Furnishings,614.52,2,0.0,138.02,Consumer
+ORD-1299,2024-02-18,West,Florida,Technology,Phones,Price Phones,365.42,3,0.2,29.21,Home Office
+ORD-1300,2024-01-24,South,New York,Office Supplies,Paper,Record Paper,1288.15,7,0.3,-238.83,Consumer
+ORD-1301,2023-04-05,South,North Carolina,Technology,Accessories,Service Accessories,789.89,4,0.1,-48.05,Corporate
+ORD-1302,2024-01-03,East,Michigan,Technology,Phones,Movement Phones,744.27,4,0.3,-106.45,Consumer
+ORD-1303,2024-01-17,Central,North Carolina,Technology,Copiers,Reflect Copiers,1230.39,10,0.0,-32.04,Corporate
+ORD-1304,2024-06-19,West,Illinois,Office Supplies,Envelopes,General Envelopes,1188.53,3,0.2,-167.66,Home Office
+ORD-1305,2024-06-10,West,Pennsylvania,Office Supplies,Binders,Same Binders,299.89,7,0.3,29.45,Home Office
+ORD-1306,2023-12-27,South,New York,Technology,Copiers,Once Copiers,1278.29,3,0.1,57.29,Corporate
+ORD-1307,2023-04-09,Central,Georgia,Furniture,Tables,Dark Tables,126.15,6,0.0,5.34,Home Office
+ORD-1308,2024-07-08,South,Ohio,Furniture,Furnishings,Red Furnishings,993.62,8,0.3,-115.63,Home Office
+ORD-1309,2024-05-04,West,Illinois,Technology,Phones,Research Phones,564.21,9,0.2,-65.39,Consumer
+ORD-1310,2023-06-21,South,Michigan,Office Supplies,Envelopes,Power Envelopes,244.16,2,0.2,45.79,Home Office
+ORD-1311,2025-02-24,East,Georgia,Office Supplies,Envelopes,Fish Envelopes,452.71,7,0.0,76.05,Home Office
+ORD-1312,2024-06-15,Central,California,Technology,Accessories,Official Accessories,540.37,2,0.3,125.71,Corporate
+ORD-1313,2022-09-24,West,North Carolina,Furniture,Tables,Fly Tables,714.25,10,0.3,-83.57,Home Office
+ORD-1314,2023-12-13,West,California,Furniture,Tables,Develop Tables,714.61,5,0.1,-27.28,Home Office
+ORD-1315,2024-07-22,Central,North Carolina,Technology,Machines,Stock Machines,1905.75,9,0.0,-251.95,Corporate
+ORD-1316,2025-03-12,Central,New York,Office Supplies,Binders,Policy Binders,1734.84,4,0.1,270.11,Home Office
+ORD-1317,2025-07-07,South,New York,Furniture,Furnishings,Fund Furnishings,1272.16,7,0.3,33.07,Home Office
+ORD-1318,2024-09-15,South,Michigan,Technology,Phones,Letter Phones,570.89,6,0.3,157.07,Home Office
+ORD-1319,2024-08-10,East,Texas,Office Supplies,Envelopes,Republican Envelopes,1944.86,6,0.0,384.77,Home Office
+ORD-1320,2023-08-21,South,Florida,Office Supplies,Paper,Much Paper,551.7,5,0.2,40.64,Corporate
+ORD-1321,2024-09-28,Central,California,Furniture,Furnishings,Student Furnishings,217.16,8,0.0,-29.94,Consumer
+ORD-1322,2023-06-14,South,California,Furniture,Furnishings,Reason Furnishings,420.59,3,0.2,-50.69,Corporate
+ORD-1323,2023-02-02,Central,Illinois,Office Supplies,Binders,Federal Binders,756.25,3,0.0,-1.38,Consumer
+ORD-1324,2024-12-02,South,Texas,Office Supplies,Paper,Record Paper,208.46,4,0.3,-33.57,Home Office
+ORD-1325,2025-06-03,South,California,Technology,Accessories,President Accessories,1397.28,2,0.3,205.42,Consumer
+ORD-1326,2024-02-26,West,Ohio,Office Supplies,Binders,Better Binders,1466.91,2,0.0,-63.55,Consumer
+ORD-1327,2023-09-23,South,New York,Office Supplies,Paper,Remember Paper,1986.02,3,0.0,129.6,Home Office
+ORD-1328,2024-01-19,South,Pennsylvania,Furniture,Tables,Down Tables,441.85,3,0.3,47.74,Home Office
+ORD-1329,2023-07-30,East,Texas,Office Supplies,Paper,Choice Paper,1509.84,10,0.3,-36.59,Consumer
+ORD-1330,2022-10-31,West,Florida,Office Supplies,Storage,Any Storage,1296.35,4,0.2,245.64,Corporate
+ORD-1331,2023-10-09,Central,Florida,Technology,Phones,May Phones,1221.72,4,0.3,-63.81,Home Office
+ORD-1332,2025-04-30,South,Ohio,Furniture,Tables,To Tables,497.34,10,0.0,31.9,Consumer
+ORD-1333,2023-01-15,Central,New York,Furniture,Bookcases,Lose Bookcases,1724.41,10,0.3,-29.82,Corporate
+ORD-1334,2024-06-28,South,Texas,Technology,Accessories,Various Accessories,1182.98,1,0.2,-108.99,Consumer
+ORD-1335,2025-05-29,Central,Michigan,Furniture,Furnishings,Parent Furnishings,858.68,7,0.0,103.27,Corporate
+ORD-1336,2023-07-23,Central,Texas,Technology,Accessories,Serious Accessories,176.46,4,0.1,12.03,Corporate
+ORD-1337,2025-09-09,East,Illinois,Office Supplies,Envelopes,If Envelopes,886.22,4,0.0,-68.91,Home Office
+ORD-1338,2024-10-30,South,North Carolina,Office Supplies,Binders,Instead Binders,128.96,3,0.0,-24.98,Home Office
+ORD-1339,2023-10-08,West,Georgia,Furniture,Chairs,Choose Chairs,1055.55,5,0.1,-14.85,Corporate
+ORD-1340,2025-07-09,East,California,Technology,Machines,Rise Machines,1618.07,5,0.0,-110.88,Corporate
+ORD-1341,2022-10-02,South,Georgia,Technology,Phones,Walk Phones,733.05,8,0.1,-11.84,Home Office
+ORD-1342,2023-03-08,East,Florida,Office Supplies,Binders,Start Binders,1027.47,1,0.0,-79.86,Home Office
+ORD-1343,2024-07-15,South,New York,Office Supplies,Storage,Discuss Storage,1863.7,1,0.3,-163.53,Consumer
+ORD-1344,2023-06-24,Central,Illinois,Furniture,Furnishings,Summer Furnishings,1151.64,2,0.0,-127.06,Consumer
+ORD-1345,2025-09-09,South,Texas,Technology,Phones,National Phones,1734.74,5,0.2,-272.02,Corporate
+ORD-1346,2024-09-14,Central,Florida,Office Supplies,Binders,Apply Binders,1136.34,5,0.1,36.32,Corporate
+ORD-1347,2025-02-05,West,Michigan,Technology,Copiers,Enjoy Copiers,318.12,7,0.0,-26.56,Consumer
+ORD-1348,2023-03-31,Central,California,Office Supplies,Binders,Loss Binders,765.02,5,0.0,-74.52,Home Office
+ORD-1349,2023-04-19,South,California,Furniture,Furnishings,Suddenly Furnishings,1429.07,2,0.0,372.47,Consumer
+ORD-1350,2024-09-14,Central,Georgia,Technology,Copiers,Region Copiers,188.11,2,0.1,22.31,Home Office
+ORD-1351,2024-12-27,East,Ohio,Office Supplies,Binders,Operation Binders,1929.15,4,0.2,-134.08,Home Office
+ORD-1352,2025-04-06,Central,Pennsylvania,Office Supplies,Art,Free Art,558.47,2,0.1,-73.69,Corporate
+ORD-1353,2024-08-11,West,Texas,Technology,Phones,Position Phones,910.14,6,0.3,-127.08,Consumer
+ORD-1354,2024-11-16,South,Illinois,Office Supplies,Paper,Last Paper,544.72,2,0.0,-66.02,Corporate
+ORD-1355,2025-01-22,East,Florida,Technology,Machines,Like Machines,313.68,4,0.2,-0.59,Corporate
+ORD-1356,2023-05-29,Central,New York,Furniture,Bookcases,Six Bookcases,1905.15,8,0.1,-290.8,Consumer
+ORD-1357,2024-09-30,East,California,Furniture,Tables,Listen Tables,1664.14,4,0.1,-167.97,Consumer
+ORD-1358,2023-10-31,East,North Carolina,Office Supplies,Storage,Society Storage,532.46,2,0.0,158.98,Home Office
+ORD-1359,2023-10-13,West,Texas,Furniture,Furnishings,Though Furnishings,262.6,8,0.0,-30.46,Corporate
+ORD-1360,2025-06-10,South,Georgia,Technology,Copiers,Factor Copiers,777.8,7,0.1,-17.91,Consumer
+ORD-1361,2024-12-11,Central,Georgia,Furniture,Bookcases,Memory Bookcases,88.61,10,0.1,10.96,Consumer
+ORD-1362,2025-05-24,South,California,Office Supplies,Art,Edge Art,573.96,3,0.3,-57.55,Consumer
+ORD-1363,2023-11-24,East,Ohio,Technology,Accessories,Less Accessories,731.04,9,0.3,-20.46,Home Office
+ORD-1364,2023-01-22,South,Illinois,Technology,Machines,Sell Machines,71.6,10,0.1,-13.27,Consumer
+ORD-1365,2023-12-11,South,Michigan,Office Supplies,Binders,Easy Binders,1538.35,4,0.1,-230.65,Corporate
+ORD-1366,2023-11-20,Central,Michigan,Technology,Accessories,Government Accessories,130.7,4,0.3,-2.95,Home Office
+ORD-1367,2024-02-02,West,North Carolina,Furniture,Tables,Walk Tables,1616.3,6,0.0,245.24,Corporate
+ORD-1368,2025-01-10,West,North Carolina,Office Supplies,Envelopes,Be Envelopes,1676.66,8,0.2,-188.16,Consumer
+ORD-1369,2023-04-26,East,Florida,Furniture,Chairs,City Chairs,453.24,9,0.3,-90.49,Home Office
+ORD-1370,2023-09-18,West,Pennsylvania,Technology,Accessories,Identify Accessories,371.37,6,0.0,-70.21,Home Office
+ORD-1371,2025-09-06,East,Michigan,Technology,Accessories,Claim Accessories,1921.91,6,0.3,178.75,Corporate
+ORD-1372,2023-08-22,Central,New York,Office Supplies,Storage,Attack Storage,1470.06,7,0.3,183.15,Consumer
+ORD-1373,2024-06-29,West,North Carolina,Furniture,Bookcases,Involve Bookcases,769.2,5,0.1,-85.49,Consumer
+ORD-1374,2024-02-20,East,New York,Furniture,Furnishings,Occur Furnishings,650.07,10,0.1,77.89,Home Office
+ORD-1375,2024-09-16,West,Pennsylvania,Furniture,Furnishings,Just Furnishings,174.06,6,0.2,-20.2,Home Office
+ORD-1376,2022-12-29,South,California,Furniture,Bookcases,Design Bookcases,435.17,2,0.2,-31.19,Corporate
+ORD-1377,2024-07-07,East,Ohio,Furniture,Chairs,Improve Chairs,1470.52,3,0.3,68.44,Corporate
+ORD-1378,2025-03-19,South,Texas,Office Supplies,Storage,Young Storage,1581.69,10,0.1,-187.7,Corporate
+ORD-1379,2025-09-08,Central,California,Furniture,Chairs,Again Chairs,537.03,2,0.0,-15.63,Corporate
+ORD-1380,2025-03-06,East,Michigan,Office Supplies,Paper,Husband Paper,689.14,10,0.3,104.92,Consumer
+ORD-1381,2024-10-03,South,New York,Office Supplies,Paper,According Paper,220.49,4,0.1,1.02,Consumer
+ORD-1382,2024-03-23,Central,Illinois,Technology,Machines,Fire Machines,209.91,7,0.3,-25.86,Consumer
+ORD-1383,2024-05-21,South,Texas,Office Supplies,Binders,Tonight Binders,1651.32,10,0.3,-165.4,Corporate
+ORD-1384,2024-07-05,West,Illinois,Furniture,Tables,Nothing Tables,957.67,2,0.2,184.29,Consumer
+ORD-1385,2025-01-19,Central,Texas,Office Supplies,Art,Such Art,1097.37,3,0.2,266.38,Home Office
+ORD-1386,2025-04-18,South,California,Office Supplies,Paper,Water Paper,890.69,5,0.1,194.65,Corporate
+ORD-1387,2023-09-01,West,Texas,Technology,Phones,Method Phones,1342.92,9,0.3,383.21,Consumer
+ORD-1388,2023-08-30,East,Ohio,Technology,Accessories,Explain Accessories,848.89,9,0.3,73.31,Home Office
+ORD-1389,2024-08-01,Central,Texas,Furniture,Furnishings,Mention Furnishings,1807.5,1,0.1,-252.8,Corporate
+ORD-1390,2022-11-08,West,Florida,Office Supplies,Paper,Improve Paper,269.85,7,0.0,79.37,Consumer
+ORD-1391,2024-02-28,West,North Carolina,Office Supplies,Paper,Relate Paper,653.1,2,0.0,-3.89,Corporate
+ORD-1392,2025-08-14,Central,Illinois,Office Supplies,Envelopes,Success Envelopes,927.15,1,0.3,-133.27,Home Office
+ORD-1393,2024-06-13,East,Texas,Furniture,Tables,Shake Tables,1563.5,5,0.2,373.59,Home Office
+ORD-1394,2023-06-07,South,North Carolina,Office Supplies,Art,Though Art,956.63,3,0.2,1.42,Home Office
+ORD-1395,2024-09-19,East,Ohio,Technology,Copiers,Wide Copiers,1387.22,1,0.3,361.26,Corporate
+ORD-1396,2023-04-10,Central,Illinois,Office Supplies,Binders,Prevent Binders,575.09,8,0.0,164.62,Corporate
+ORD-1397,2024-12-31,Central,Georgia,Furniture,Tables,Agreement Tables,553.45,7,0.0,-58.68,Corporate
+ORD-1398,2024-05-28,South,Michigan,Furniture,Furnishings,Person Furnishings,1645.61,9,0.1,-275.13,Corporate
+ORD-1399,2025-02-16,West,Michigan,Technology,Copiers,Recognize Copiers,77.32,4,0.1,16.89,Home Office
+ORD-1400,2022-11-05,South,California,Furniture,Chairs,Because Chairs,1415.18,5,0.2,299.67,Corporate
+ORD-1401,2025-06-18,East,California,Technology,Copiers,Later Copiers,757.48,10,0.3,-84.24,Consumer
+ORD-1402,2023-04-22,Central,Pennsylvania,Office Supplies,Envelopes,Trial Envelopes,1678.55,5,0.0,-96.46,Consumer
+ORD-1403,2024-09-10,West,North Carolina,Office Supplies,Binders,Court Binders,1717.08,4,0.1,-112.4,Consumer
+ORD-1404,2022-12-11,East,California,Office Supplies,Envelopes,Ever Envelopes,1824.8,3,0.0,-160.79,Corporate
+ORD-1405,2024-05-04,Central,Ohio,Technology,Machines,Generation Machines,1706.14,8,0.2,-155.08,Corporate
+ORD-1406,2023-08-18,South,North Carolina,Office Supplies,Envelopes,Look Envelopes,34.55,6,0.2,-1.75,Consumer
+ORD-1407,2024-02-13,East,Pennsylvania,Furniture,Furnishings,Green Furnishings,1288.38,5,0.2,164.99,Corporate
+ORD-1408,2024-05-04,West,New York,Technology,Machines,Fall Machines,1535.64,1,0.3,200.04,Home Office
+ORD-1409,2024-07-09,East,Georgia,Technology,Accessories,Entire Accessories,533.66,7,0.3,-3.13,Corporate
+ORD-1410,2023-01-29,Central,Florida,Furniture,Tables,Many Tables,1078.58,8,0.2,57.87,Home Office
+ORD-1411,2022-10-24,Central,Texas,Furniture,Tables,So Tables,273.33,5,0.1,74.75,Corporate
+ORD-1412,2025-01-08,West,Pennsylvania,Office Supplies,Binders,Area Binders,1493.54,5,0.3,289.81,Consumer
+ORD-1413,2024-03-20,Central,North Carolina,Office Supplies,Storage,Door Storage,938.25,2,0.3,-162.47,Corporate
+ORD-1414,2025-06-29,South,Florida,Technology,Phones,Authority Phones,257.24,7,0.2,1.69,Home Office
+ORD-1415,2025-07-02,West,Pennsylvania,Furniture,Tables,Amount Tables,1974.64,8,0.1,-82.56,Corporate
+ORD-1416,2022-11-11,East,Georgia,Technology,Accessories,End Accessories,1269.44,3,0.2,148.84,Corporate
+ORD-1417,2023-07-30,Central,Florida,Furniture,Furnishings,Those Furnishings,1161.03,3,0.3,223.62,Consumer
+ORD-1418,2022-10-25,South,Ohio,Furniture,Tables,Pretty Tables,869.47,8,0.3,-171.86,Corporate
+ORD-1419,2023-05-18,Central,California,Technology,Accessories,Edge Accessories,1518.56,9,0.1,-290.11,Corporate
+ORD-1420,2023-04-08,West,Pennsylvania,Furniture,Tables,Material Tables,275.28,7,0.2,-32.07,Corporate
+ORD-1421,2025-07-29,Central,Georgia,Furniture,Bookcases,Building Bookcases,1050.17,9,0.2,17.68,Home Office
+ORD-1422,2025-02-16,Central,Georgia,Technology,Accessories,Yourself Accessories,1505.23,3,0.3,-286.65,Corporate
+ORD-1423,2023-08-28,West,California,Furniture,Tables,Make Tables,1019.17,2,0.2,158.54,Home Office
+ORD-1424,2025-09-14,Central,Michigan,Furniture,Furnishings,Establish Furnishings,116.2,1,0.0,14.73,Home Office
+ORD-1425,2024-04-19,East,Ohio,Furniture,Chairs,Computer Chairs,772.9,9,0.2,28.75,Corporate
+ORD-1426,2025-04-22,East,Illinois,Furniture,Tables,Policy Tables,1330.1,9,0.2,148.17,Corporate
+ORD-1427,2023-03-20,South,Texas,Technology,Accessories,Star Accessories,1443.16,2,0.2,-206.36,Home Office
+ORD-1428,2023-06-05,West,North Carolina,Furniture,Furnishings,Foreign Furnishings,1560.36,9,0.1,-32.83,Consumer
+ORD-1429,2023-03-10,West,California,Office Supplies,Storage,Particular Storage,1002.78,4,0.3,-34.79,Home Office
+ORD-1430,2022-11-02,East,Texas,Furniture,Chairs,Woman Chairs,1344.66,3,0.0,255.17,Home Office
+ORD-1431,2024-01-21,Central,Florida,Furniture,Chairs,Parent Chairs,1977.56,5,0.2,63.56,Corporate
+ORD-1432,2025-08-11,East,Illinois,Furniture,Tables,Whatever Tables,1607.16,6,0.3,272.04,Corporate
+ORD-1433,2024-04-29,East,New York,Furniture,Chairs,Industry Chairs,1301.45,6,0.2,321.8,Home Office
+ORD-1434,2023-07-29,East,Pennsylvania,Technology,Machines,Bag Machines,382.08,7,0.3,107.42,Corporate
+ORD-1435,2025-03-31,South,Ohio,Office Supplies,Art,Rock Art,1774.53,3,0.0,-237.33,Home Office
+ORD-1436,2025-05-25,West,Texas,Technology,Phones,Eight Phones,1824.23,8,0.3,-199.52,Corporate
+ORD-1437,2023-03-01,East,New York,Office Supplies,Storage,Same Storage,1842.39,2,0.3,37.48,Corporate
+ORD-1438,2024-01-05,Central,California,Furniture,Bookcases,To Bookcases,1739.3,9,0.1,502.57,Home Office
+ORD-1439,2025-08-21,East,Ohio,Technology,Machines,Plan Machines,1458.77,8,0.2,192.35,Home Office
+ORD-1440,2023-03-31,West,Michigan,Technology,Copiers,Style Copiers,128.04,3,0.3,28.93,Home Office
+ORD-1441,2025-02-19,South,Pennsylvania,Furniture,Chairs,Stay Chairs,675.17,5,0.0,36.1,Consumer
+ORD-1442,2022-11-26,South,Florida,Technology,Copiers,Hand Copiers,929.01,10,0.3,-144.92,Consumer
+ORD-1443,2024-12-29,Central,Texas,Office Supplies,Art,Later Art,1495.57,1,0.0,2.57,Corporate
+ORD-1444,2025-07-17,East,North Carolina,Furniture,Chairs,Hospital Chairs,1282.33,9,0.1,163.24,Home Office
+ORD-1445,2023-01-09,Central,California,Office Supplies,Storage,Move Storage,1691.75,6,0.3,267.85,Consumer
+ORD-1446,2025-06-25,East,Texas,Office Supplies,Art,Growth Art,459.06,6,0.2,98.67,Home Office
+ORD-1447,2022-10-13,Central,Texas,Office Supplies,Envelopes,Time Envelopes,1795.82,8,0.1,378.77,Consumer
+ORD-1448,2024-07-07,East,Illinois,Technology,Copiers,Test Copiers,407.92,2,0.3,-37.61,Home Office
+ORD-1449,2024-10-24,East,Ohio,Furniture,Bookcases,Born Bookcases,1854.72,10,0.0,345.11,Consumer
+ORD-1450,2024-07-28,West,Georgia,Office Supplies,Art,High Art,1070.12,1,0.3,234.79,Consumer
+ORD-1451,2025-06-07,West,North Carolina,Office Supplies,Envelopes,Vote Envelopes,1466.38,3,0.0,-9.23,Consumer
+ORD-1452,2024-09-07,South,Ohio,Technology,Machines,Second Machines,1833.5,4,0.2,-1.95,Home Office
+ORD-1453,2023-05-19,South,New York,Office Supplies,Storage,Learn Storage,837.24,9,0.2,185.48,Consumer
+ORD-1454,2023-06-24,West,Florida,Technology,Machines,Similar Machines,1255.85,5,0.2,327.27,Consumer
+ORD-1455,2024-12-12,Central,Texas,Furniture,Tables,Rather Tables,1133.31,10,0.3,155.4,Corporate
+ORD-1456,2023-11-17,South,California,Technology,Machines,Power Machines,230.81,7,0.1,-40.04,Home Office
+ORD-1457,2025-01-07,Central,New York,Furniture,Tables,Stage Tables,1373.11,3,0.0,199.51,Corporate
+ORD-1458,2024-10-14,East,Pennsylvania,Office Supplies,Paper,Make Paper,222.91,9,0.1,38.16,Corporate
+ORD-1459,2024-07-31,West,Michigan,Technology,Copiers,That Copiers,589.52,1,0.3,-3.67,Home Office
+ORD-1460,2025-04-01,East,California,Technology,Machines,Executive Machines,517.66,10,0.3,111.29,Home Office
+ORD-1461,2024-02-06,West,Florida,Technology,Machines,Together Machines,908.65,2,0.1,255.55,Corporate
+ORD-1462,2023-10-10,South,California,Technology,Phones,Then Phones,572.64,5,0.1,-68.45,Corporate
+ORD-1463,2023-02-05,Central,Georgia,Office Supplies,Binders,Family Binders,1876.24,1,0.1,495.92,Home Office
+ORD-1464,2024-08-24,Central,Georgia,Technology,Phones,Either Phones,1109.32,2,0.2,69.55,Home Office
+ORD-1465,2024-09-14,West,Ohio,Furniture,Chairs,Over Chairs,1083.33,2,0.2,-96.85,Home Office
+ORD-1466,2025-04-29,Central,Pennsylvania,Furniture,Bookcases,Relate Bookcases,452.52,10,0.3,134.99,Corporate
+ORD-1467,2024-05-04,East,Pennsylvania,Technology,Phones,Great Phones,495.89,10,0.1,138.58,Corporate
+ORD-1468,2022-11-07,South,Texas,Technology,Machines,Miss Machines,528.05,5,0.0,135.01,Corporate
+ORD-1469,2024-02-10,South,Georgia,Office Supplies,Envelopes,Court Envelopes,606.94,4,0.2,34.56,Consumer
+ORD-1470,2024-10-20,East,Texas,Furniture,Tables,Difference Tables,1347.26,4,0.3,293.48,Consumer
+ORD-1471,2024-03-28,East,New York,Furniture,Furnishings,Subject Furnishings,929.27,6,0.0,-145.19,Consumer
+ORD-1472,2023-10-30,Central,Michigan,Furniture,Tables,Grow Tables,1158.43,4,0.2,4.42,Consumer
+ORD-1473,2023-12-02,South,Pennsylvania,Office Supplies,Art,Up Art,791.21,2,0.0,95.51,Consumer
+ORD-1474,2025-04-07,East,Texas,Technology,Phones,Science Phones,1857.53,2,0.2,359.33,Corporate
+ORD-1475,2023-11-27,East,Illinois,Office Supplies,Envelopes,Only Envelopes,775.2,1,0.3,-94.45,Corporate
+ORD-1476,2022-10-09,South,Michigan,Furniture,Tables,Nation Tables,1921.07,3,0.2,266.35,Corporate
+ORD-1477,2023-07-17,East,Michigan,Technology,Machines,Bed Machines,299.92,1,0.0,25.9,Home Office
+ORD-1478,2023-10-03,East,Illinois,Office Supplies,Envelopes,Service Envelopes,1501.63,6,0.1,9.5,Consumer
+ORD-1479,2024-06-16,West,New York,Technology,Accessories,Middle Accessories,1241.43,5,0.1,-177.14,Consumer
+ORD-1480,2025-02-02,South,Michigan,Technology,Phones,Son Phones,595.49,2,0.2,-89.86,Consumer
+ORD-1481,2023-10-02,Central,Pennsylvania,Technology,Copiers,Rock Copiers,1349.17,4,0.0,-77.48,Consumer
+ORD-1482,2024-10-02,Central,Georgia,Furniture,Tables,Race Tables,670.13,5,0.1,55.47,Corporate
+ORD-1483,2024-10-25,South,New York,Office Supplies,Storage,Line Storage,640.17,4,0.3,-39.47,Consumer
+ORD-1484,2022-10-20,Central,Georgia,Office Supplies,Paper,Better Paper,901.81,5,0.3,68.39,Corporate
+ORD-1485,2023-12-25,Central,New York,Furniture,Chairs,Do Chairs,408.94,2,0.0,100.62,Home Office
+ORD-1486,2024-06-13,South,North Carolina,Technology,Phones,Role Phones,1814.48,9,0.2,130.16,Consumer
+ORD-1487,2023-10-06,West,Pennsylvania,Technology,Copiers,Follow Copiers,462.15,10,0.2,-61.49,Corporate
+ORD-1488,2025-07-21,South,Pennsylvania,Technology,Phones,Party Phones,40.97,4,0.1,7.32,Home Office
+ORD-1489,2024-04-19,West,New York,Furniture,Furnishings,Material Furnishings,1898.45,3,0.3,511.8,Home Office
+ORD-1490,2025-01-30,South,Florida,Furniture,Tables,Nice Tables,543.43,4,0.0,72.98,Consumer
+ORD-1491,2024-03-11,South,Georgia,Technology,Machines,Large Machines,1765.47,1,0.2,-261.97,Corporate
+ORD-1492,2025-01-25,Central,North Carolina,Technology,Machines,Give Machines,1148.92,7,0.3,-19.94,Home Office
+ORD-1493,2024-03-23,Central,Ohio,Technology,Phones,Scientist Phones,1042.42,6,0.2,45.27,Consumer
+ORD-1494,2024-08-28,East,Michigan,Office Supplies,Envelopes,Experience Envelopes,891.0,4,0.0,51.03,Consumer
+ORD-1495,2024-01-13,West,New York,Office Supplies,Paper,Enter Paper,737.2,2,0.1,5.39,Consumer
+ORD-1496,2023-09-17,South,Georgia,Office Supplies,Binders,Camera Binders,437.19,3,0.3,-82.53,Corporate
+ORD-1497,2023-07-20,West,New York,Furniture,Tables,Four Tables,1035.03,10,0.1,-178.07,Home Office
+ORD-1498,2023-03-28,South,North Carolina,Office Supplies,Paper,Situation Paper,1282.49,5,0.0,-117.61,Home Office
+ORD-1499,2025-01-03,South,New York,Technology,Copiers,Sound Copiers,1664.12,10,0.1,328.34,Consumer
+ORD-1500,2025-08-31,West,Pennsylvania,Furniture,Bookcases,Crime Bookcases,1201.14,2,0.1,-13.09,Corporate
